@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\muhamed\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2014-06-07T17:17:27.0552627+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2014-06-07T16:31:39.2598531+02:00</Time>
+    </Item>
+    <Item>
+      <Source>1024.png</Source>
+      <Name>1024</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\1024.xnb</Output>
+      <Time>2014-06-07T16:38:14.8147222+02:00</Time>
+    </Item>
+    <Item>
+      <Source>128.png</Source>
+      <Name>128</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\128.xnb</Output>
+      <Time>2014-06-07T16:38:14.811722+02:00</Time>
+    </Item>
+    <Item>
+      <Source>16.png</Source>
+      <Name>16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\16.xnb</Output>
+      <Time>2014-06-07T16:38:14.8087219+02:00</Time>
+    </Item>
+    <Item>
+      <Source>2.png</Source>
+      <Name>2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\2.xnb</Output>
+      <Time>2014-06-07T16:38:14.8047216+02:00</Time>
+    </Item>
+    <Item>
+      <Source>2048.png</Source>
+      <Name>2048</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\2048.xnb</Output>
+      <Time>2014-06-07T16:38:14.8167223+02:00</Time>
+    </Item>
+    <Item>
+      <Source>256.png</Source>
+      <Name>256</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\256.xnb</Output>
+      <Time>2014-06-07T16:38:14.8127221+02:00</Time>
+    </Item>
+    <Item>
+      <Source>32.png</Source>
+      <Name>32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\32.xnb</Output>
+      <Time>2014-06-07T16:38:14.8097219+02:00</Time>
+    </Item>
+    <Item>
+      <Source>4.png</Source>
+      <Name>4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\4.xnb</Output>
+      <Time>2014-06-07T16:38:14.8067218+02:00</Time>
+    </Item>
+    <Item>
+      <Source>512.png</Source>
+      <Name>512</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\512.xnb</Output>
+      <Time>2014-06-07T16:38:14.8137222+02:00</Time>
+    </Item>
+    <Item>
+      <Source>64.png</Source>
+      <Name>64</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\64.xnb</Output>
+      <Time>2014-06-07T16:38:14.810722+02:00</Time>
+    </Item>
+    <Item>
+      <Source>8.png</Source>
+      <Name>8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\8.xnb</Output>
+      <Time>2014-06-07T16:38:14.8077218+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\TestContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\Test\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\TestContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Muhamed\documents\visual studio 2010\Projects\Test\Test\Test\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-06-01T20:50:22.2038966+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
